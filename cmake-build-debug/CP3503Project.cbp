@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="CP3503Project"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/LiamWood/CLionProjects/CP3503Project/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/LiamWood/CLionProjects/CP3503Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/LiamWood/CLionProjects/CP3503Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/LiamWood/CLionProjects/CP3503Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/LiamWood/CLionProjects/CP3503Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/LiamWood/CLionProjects/CP3503Project/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/LiamWood/CLionProjects/CP3503Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/LiamWood/CLionProjects/CP3503Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/LiamWood/CLionProjects/CP3503Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/LiamWood/CLionProjects/CP3503Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/LiamWood/CLionProjects/CP3503Project/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/LiamWood/CLionProjects/CP3503Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/LiamWood/CLionProjects/CP3503Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/LiamWood/CLionProjects/CP3503Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/LiamWood/CLionProjects/CP3503Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CP3503Project">
+				<Option output="/Users/LiamWood/CLionProjects/CP3503Project/cmake-build-debug/CP3503Project" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/LiamWood/CLionProjects/CP3503Project/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../lib/clang/8.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/LiamWood/CLionProjects/CP3503Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 CP3503Project"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/LiamWood/CLionProjects/CP3503Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/LiamWood/CLionProjects/CP3503Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/LiamWood/CLionProjects/CP3503Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CP3503Project/fast">
+				<Option output="/Users/LiamWood/CLionProjects/CP3503Project/cmake-build-debug/CP3503Project" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/LiamWood/CLionProjects/CP3503Project/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../lib/clang/8.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/LiamWood/CLionProjects/CP3503Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 CP3503Project/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/LiamWood/CLionProjects/CP3503Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/LiamWood/CLionProjects/CP3503Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/LiamWood/CLionProjects/CP3503Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/LiamWood/CLionProjects/CP3503Project/Addition.cpp">
+			<Option target="CP3503Project"/>
+		</Unit>
+		<Unit filename="/Users/LiamWood/CLionProjects/CP3503Project/Addition.h">
+			<Option target="CP3503Project"/>
+		</Unit>
+		<Unit filename="/Users/LiamWood/CLionProjects/CP3503Project/Calculator.cpp">
+			<Option target="CP3503Project"/>
+		</Unit>
+		<Unit filename="/Users/LiamWood/CLionProjects/CP3503Project/Calculator.h">
+			<Option target="CP3503Project"/>
+		</Unit>
+		<Unit filename="/Users/LiamWood/CLionProjects/CP3503Project/Division.cpp">
+			<Option target="CP3503Project"/>
+		</Unit>
+		<Unit filename="/Users/LiamWood/CLionProjects/CP3503Project/Division.h">
+			<Option target="CP3503Project"/>
+		</Unit>
+		<Unit filename="/Users/LiamWood/CLionProjects/CP3503Project/ErrorException.cpp">
+			<Option target="CP3503Project"/>
+		</Unit>
+		<Unit filename="/Users/LiamWood/CLionProjects/CP3503Project/ErrorException.h">
+			<Option target="CP3503Project"/>
+		</Unit>
+		<Unit filename="/Users/LiamWood/CLionProjects/CP3503Project/Exponentiation.cpp">
+			<Option target="CP3503Project"/>
+		</Unit>
+		<Unit filename="/Users/LiamWood/CLionProjects/CP3503Project/Exponentiation.h">
+			<Option target="CP3503Project"/>
+		</Unit>
+		<Unit filename="/Users/LiamWood/CLionProjects/CP3503Project/Expression.cpp">
+			<Option target="CP3503Project"/>
+		</Unit>
+		<Unit filename="/Users/LiamWood/CLionProjects/CP3503Project/Expression.h">
+			<Option target="CP3503Project"/>
+		</Unit>
+		<Unit filename="/Users/LiamWood/CLionProjects/CP3503Project/Integer.cpp">
+			<Option target="CP3503Project"/>
+		</Unit>
+		<Unit filename="/Users/LiamWood/CLionProjects/CP3503Project/Integer.h">
+			<Option target="CP3503Project"/>
+		</Unit>
+		<Unit filename="/Users/LiamWood/CLionProjects/CP3503Project/Multiplication.cpp">
+			<Option target="CP3503Project"/>
+		</Unit>
+		<Unit filename="/Users/LiamWood/CLionProjects/CP3503Project/Multiplication.h">
+			<Option target="CP3503Project"/>
+		</Unit>
+		<Unit filename="/Users/LiamWood/CLionProjects/CP3503Project/NthRoot.cpp">
+			<Option target="CP3503Project"/>
+		</Unit>
+		<Unit filename="/Users/LiamWood/CLionProjects/CP3503Project/NthRoot.h">
+			<Option target="CP3503Project"/>
+		</Unit>
+		<Unit filename="/Users/LiamWood/CLionProjects/CP3503Project/Subtraction.cpp">
+			<Option target="CP3503Project"/>
+		</Unit>
+		<Unit filename="/Users/LiamWood/CLionProjects/CP3503Project/Subtraction.h">
+			<Option target="CP3503Project"/>
+		</Unit>
+		<Unit filename="/Users/LiamWood/CLionProjects/CP3503Project/Token.cpp">
+			<Option target="CP3503Project"/>
+		</Unit>
+		<Unit filename="/Users/LiamWood/CLionProjects/CP3503Project/Token.h">
+			<Option target="CP3503Project"/>
+		</Unit>
+		<Unit filename="/Users/LiamWood/CLionProjects/CP3503Project/main.cpp">
+			<Option target="CP3503Project"/>
+		</Unit>
+		<Unit filename="/Users/LiamWood/CLionProjects/CP3503Project/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
